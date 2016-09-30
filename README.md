@@ -1,4 +1,4 @@
-# Computer Program Paradigms
+# Paradigms of Computer Programming
 
 > This course is an introduction to computer programming in four themes: functional programming as the foundation, semantics of programming languages, data abstraction as the way to master complexity, and concurrent programming with multiple agents.  We will see the three most important programming paradigms: functional programming, object-oriented programming, and declarative concurrent programming.  We define a programming paradigm as an approach to programming a computer that is based on a coherent set of principles or a mathematical theory.  In practice, each paradigm comes with its own way of thinking and there are problems for which it is the best approach.
 
